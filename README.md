@@ -80,11 +80,11 @@ Run the program and choose RTL viewer to get RTL realization.
 ```python
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
 
-Developed by: Monisha T
-RegisterNumber: 212221240029 
+Developed by: pragatheessvaran AB
+RegisterNumber: 212221240039 
 ```
 ## ENCODER:
-```PYTHON
+```
 
 module EdD(a,b,c,d0,d1,d2,d3,d4,d5,d6,d7);
 output a,b,c;
